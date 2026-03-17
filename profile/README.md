@@ -27,7 +27,7 @@ Fakestore is a microservices platform deployed on a self-hosted Kubernetes clust
 | [shipping](https://github.com/fake-store/shipping) | C# / .NET 8 | Address management, shipment label generation, tracking |
 | [notifications](https://github.com/fake-store/notifications) | Rust | Consumes shipped events and delivers customer notifications |
 | [catalog](https://github.com/fake-store/catalog) | Java / Spring Boot | Product catalog *(in progress)* |
-| [infra](https://github.com/fake-store/infra) | Kubernetes / GitHub Actions | Cluster manifests, secrets management, CI/CD pipelines |
+| [deployment](https://github.com/fake-store/fakestore-deployment) | Kubernetes / GitHub Actions | Cluster manifests, secrets management, CI/CD pipelines |
 
 ### Network Topology
 
